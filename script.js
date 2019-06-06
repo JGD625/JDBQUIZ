@@ -84,7 +84,7 @@ const questionSet = [
 
   {
     number: 10,
-    text: 'It\'s the weekend, what am I probably doin?',
+    text: 'It\'s the weekend, what am I probably doing?',
     ans1: 'Hiking and exploring, I love the outdoors.',
     ans2: 'Carpentry, it really centers me.',
     ans3: 'A spin class, I\'m always at the gym!',
@@ -263,7 +263,7 @@ function correctFeedbackTemplate(questionNum) {
   return `
     <section class="feedback-page" role="main">
       <h2>YUP!</h2>
-      <h3>${STORIES[questionNum - 1]}!</h3>
+      <h3>${STORIES[questionNum - 1]}</h3>
       <button id="js-next-button">Next</button>
     </section>
 `;
@@ -277,7 +277,7 @@ function incorrectFeedbackTemplate(questionNum) {
   return `
     <section class="feedback-page" role="main">
       <h2>Nope!</h2>
-      <h3>${STORIES[questionNum - 1]}!</h3>
+      <h3>${STORIES[questionNum - 1]}</h3>
       <button id="js-next-button">Next</button>
     </section>
 `;
