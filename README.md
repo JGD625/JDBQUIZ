@@ -13,6 +13,6 @@ https://jgd625.github.io/JDBQUIZ/
 
 HTML, CSS, JavaScript
 
-<img src="https://static.wixstatic.com/media/d9f074_5aee7824e6284e0b9fe6da799e9a9fec~mv2.png/v1/fill/w_890,h_627/Untitled.png" style="width: 200px;" alt="schipperke dog" />
+<img src="https://static.wixstatic.com/media/d9f074_5aee7824e6284e0b9fe6da799e9a9fec~mv2.png/v1/fill/w_890,h_627/Untitled.png" style="width:100px;" alt="schipperke dog" />
 
 
